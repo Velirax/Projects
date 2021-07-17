@@ -1,0 +1,13 @@
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Velkata\source\repos\ExercisesPolymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

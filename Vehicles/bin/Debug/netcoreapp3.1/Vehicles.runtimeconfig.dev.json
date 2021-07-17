@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Velkata\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Velkata\\.nuget\\packages"
+    ]
+  }
+}
