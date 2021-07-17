@@ -15,6 +15,9 @@ namespace WildFarm
             Name = name;
             Weight = weight;
             
+        }
+        public abstract void AskForFood();
+
         public abstract void EatFood(Food food);
     }
 }
