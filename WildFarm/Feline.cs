@@ -10,7 +10,7 @@ namespace WildFarm
         {
             Breed = breed;
         }
-        public string Breed { get; set; }
+        public string Breed { get; protected set; }
 
         public override string ToString()
         {

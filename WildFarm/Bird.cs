@@ -11,7 +11,7 @@ namespace WildFarm
             WingSize = wingSize;
         }
 
-        public double WingSize { get; set; }
+        public double WingSize { get; protected set; }
 
 
         public override string ToString()

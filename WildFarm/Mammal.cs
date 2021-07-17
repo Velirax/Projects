@@ -10,6 +10,6 @@ namespace WildFarm
         {
             LivingRegion = livingRegion;
         }
-        public string LivingRegion { get; set; }
+        public string LivingRegion { get; protected set; }
     }
 }

@@ -6,7 +6,7 @@ namespace WildFarm
 {
     public abstract class Food
     {
-        public int Quantity { get; set; }
+        public int Quantity { get; protected set; }
 
         public Food(int quantity)
         {
